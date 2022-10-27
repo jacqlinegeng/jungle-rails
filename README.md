@@ -32,5 +32,5 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Product
 !['Home Page'](https://github.com/jacqlinegeng/jungle-rails/blob/master/screenshots/home%20page.png?raw=true)
-!['Shopping cart'](https://github.com/jacqlinegeng/jungle-rails/blob/master/screenshots/payment.png?raw=true)
+!['Shopping cart'](https://github.com/jacqlinegeng/jungle-rails/blob/master/screenshots/products.png?raw=true)
 !['Payment page'](https://github.com/jacqlinegeng/jungle-rails/blob/master/screenshots/payment.png?raw=true)
